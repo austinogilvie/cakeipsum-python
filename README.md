@@ -1,8 +1,14 @@
 # cakeipsum
 
-A cake/dessert-themed Lorem Ipsum text generator for Python.
+Because your placeholder text should be delicious.
 
-Inspired by [Cupcake Ipsum](https://cupcakeipsum.com/).
+A cake/dessert-themed Lorem Ipsum generator for Python. Finally, a way to fill your mockups with sweetness instead of boring Latin.
+
+## Credits
+
+This project is a Python port of [Cupcake Ipsum](https://cupcakeipsum.com/), created by the brilliant [Basia Madej-Romaniuk](https://www.linkedin.com/in/basiamadej/). All the sugary goodness - the word list, the "I love" phrases, the "Cake ipsum dolor sit amet" opener - comes straight from her original [cupcake-ipsum-react](https://github.com/basiam/cupcake-ipsum-react) project.
+
+Basia deserves all the credit for this delightful idea. I just wrapped it in Python and added a CLI so you can generate dessert-themed filler text without leaving your terminal.
 
 ## Installation
 
@@ -90,3 +96,7 @@ print(gen.paragraphs(1))
 ## License
 
 MIT
+
+---
+
+*Sweet placeholder text, one cupcake at a time.*
